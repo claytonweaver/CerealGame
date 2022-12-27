@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CerealGame.Bff/1.0.0": {
+        "dependencies": {
+          "CerealGame.UI": "1.0.0"
+        },
+        "runtime": {
+          "CerealGame.Bff.dll": {}
+        }
+      },
+      "CerealGame.Models/1.0.0": {
+        "runtime": {
+          "CerealGame.Models.dll": {}
+        }
+      },
+      "CerealGame.UI/1.0.0": {
+        "dependencies": {
+          "CerealGame.Models": "1.0.0",
+          "CerealGame.Utils": "1.0.0"
+        },
+        "runtime": {
+          "CerealGame.UI.dll": {}
+        }
+      },
+      "CerealGame.Utils/1.0.0": {
+        "dependencies": {
+          "CerealGame.Models": "1.0.0"
+        },
+        "runtime": {
+          "CerealGame.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CerealGame.Bff/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CerealGame.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CerealGame.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CerealGame.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

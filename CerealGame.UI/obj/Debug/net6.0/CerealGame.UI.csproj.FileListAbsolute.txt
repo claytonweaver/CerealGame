@@ -1,0 +1,17 @@
+C:\git\Dotnet\CerealGame\CerealGame.UI\bin\Debug\net6.0\CerealGame.UI.deps.json
+C:\git\Dotnet\CerealGame\CerealGame.UI\bin\Debug\net6.0\CerealGame.UI.dll
+C:\git\Dotnet\CerealGame\CerealGame.UI\bin\Debug\net6.0\CerealGame.UI.pdb
+C:\git\Dotnet\CerealGame\CerealGame.UI\bin\Debug\net6.0\CerealGame.Models.dll
+C:\git\Dotnet\CerealGame\CerealGame.UI\bin\Debug\net6.0\CerealGame.Utils.dll
+C:\git\Dotnet\CerealGame\CerealGame.UI\bin\Debug\net6.0\CerealGame.Models.pdb
+C:\git\Dotnet\CerealGame\CerealGame.UI\bin\Debug\net6.0\CerealGame.Utils.pdb
+C:\git\Dotnet\CerealGame\CerealGame.UI\obj\Debug\net6.0\CerealGame.UI.csproj.AssemblyReference.cache
+C:\git\Dotnet\CerealGame\CerealGame.UI\obj\Debug\net6.0\CerealGame.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Dotnet\CerealGame\CerealGame.UI\obj\Debug\net6.0\CerealGame.UI.AssemblyInfoInputs.cache
+C:\git\Dotnet\CerealGame\CerealGame.UI\obj\Debug\net6.0\CerealGame.UI.AssemblyInfo.cs
+C:\git\Dotnet\CerealGame\CerealGame.UI\obj\Debug\net6.0\CerealGame.UI.csproj.CoreCompileInputs.cache
+C:\git\Dotnet\CerealGame\CerealGame.UI\obj\Debug\net6.0\CerealGame.UI.csproj.CopyComplete
+C:\git\Dotnet\CerealGame\CerealGame.UI\obj\Debug\net6.0\CerealGame.UI.dll
+C:\git\Dotnet\CerealGame\CerealGame.UI\obj\Debug\net6.0\refint\CerealGame.UI.dll
+C:\git\Dotnet\CerealGame\CerealGame.UI\obj\Debug\net6.0\CerealGame.UI.pdb
+C:\git\Dotnet\CerealGame\CerealGame.UI\obj\Debug\net6.0\ref\CerealGame.UI.dll

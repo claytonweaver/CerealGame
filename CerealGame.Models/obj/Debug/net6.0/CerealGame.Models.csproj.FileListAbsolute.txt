@@ -1,0 +1,12 @@
+C:\git\Dotnet\CerealGame\CerealGame.Models\bin\Debug\net6.0\CerealGame.Models.deps.json
+C:\git\Dotnet\CerealGame\CerealGame.Models\bin\Debug\net6.0\CerealGame.Models.dll
+C:\git\Dotnet\CerealGame\CerealGame.Models\bin\Debug\net6.0\CerealGame.Models.pdb
+C:\git\Dotnet\CerealGame\CerealGame.Models\obj\Debug\net6.0\CerealGame.Models.csproj.AssemblyReference.cache
+C:\git\Dotnet\CerealGame\CerealGame.Models\obj\Debug\net6.0\CerealGame.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Dotnet\CerealGame\CerealGame.Models\obj\Debug\net6.0\CerealGame.Models.AssemblyInfoInputs.cache
+C:\git\Dotnet\CerealGame\CerealGame.Models\obj\Debug\net6.0\CerealGame.Models.AssemblyInfo.cs
+C:\git\Dotnet\CerealGame\CerealGame.Models\obj\Debug\net6.0\CerealGame.Models.csproj.CoreCompileInputs.cache
+C:\git\Dotnet\CerealGame\CerealGame.Models\obj\Debug\net6.0\CerealGame.Models.dll
+C:\git\Dotnet\CerealGame\CerealGame.Models\obj\Debug\net6.0\refint\CerealGame.Models.dll
+C:\git\Dotnet\CerealGame\CerealGame.Models\obj\Debug\net6.0\CerealGame.Models.pdb
+C:\git\Dotnet\CerealGame\CerealGame.Models\obj\Debug\net6.0\ref\CerealGame.Models.dll

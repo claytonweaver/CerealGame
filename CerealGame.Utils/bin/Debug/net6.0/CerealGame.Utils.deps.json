@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CerealGame.Utils/1.0.0": {
+        "dependencies": {
+          "CerealGame.Models": "1.0.0"
+        },
+        "runtime": {
+          "CerealGame.Utils.dll": {}
+        }
+      },
+      "CerealGame.Models/1.0.0": {
+        "runtime": {
+          "CerealGame.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CerealGame.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CerealGame.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

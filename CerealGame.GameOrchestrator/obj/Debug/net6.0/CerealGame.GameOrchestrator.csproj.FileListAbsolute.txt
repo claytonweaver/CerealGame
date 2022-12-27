@@ -1,0 +1,12 @@
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\bin\Debug\net6.0\CerealGame.GameOrchestrator.deps.json
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\bin\Debug\net6.0\CerealGame.GameOrchestrator.dll
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\bin\Debug\net6.0\CerealGame.GameOrchestrator.pdb
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\obj\Debug\net6.0\CerealGame.GameOrchestrator.csproj.AssemblyReference.cache
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\obj\Debug\net6.0\CerealGame.GameOrchestrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\obj\Debug\net6.0\CerealGame.GameOrchestrator.AssemblyInfoInputs.cache
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\obj\Debug\net6.0\CerealGame.GameOrchestrator.AssemblyInfo.cs
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\obj\Debug\net6.0\CerealGame.GameOrchestrator.csproj.CoreCompileInputs.cache
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\obj\Debug\net6.0\CerealGame.GameOrchestrator.dll
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\obj\Debug\net6.0\refint\CerealGame.GameOrchestrator.dll
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\obj\Debug\net6.0\CerealGame.GameOrchestrator.pdb
+C:\git\Dotnet\CerealGame\CerealGame.GameOrchestrator\obj\Debug\net6.0\ref\CerealGame.GameOrchestrator.dll

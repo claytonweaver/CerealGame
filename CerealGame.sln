@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerealGame.Models", "CerealGame.Models\CerealGame.Models.csproj", "{D8EE7645-8403-4FC7-8704-2859721B9155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerealGame.ClockService", "CerealGame.ClockService\CerealGame.ClockService.csproj", "{617B5FC4-9FAB-4D8A-93BB-88270A2C5AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerealGame.GameOrchestrator", "CerealGame.GameOrchestrator\CerealGame.GameOrchestrator.csproj", "{BD251596-F5F3-441F-AE1B-22DF9A8DDD84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerealGame.Main", "CerealGame.Main\CerealGame.Main.csproj", "{6E7AE4DD-CBC5-41EE-B57E-CEFB56514DC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerealGame.Bff", "CerealGame.Bff\CerealGame.Bff.csproj", "{C24520B1-A207-44FB-86C5-3F6D6F8F7D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerealGame.UI", "CerealGame.UI\CerealGame.UI.csproj", "{85ACB843-541A-47C0-8C67-15C8382B3CC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerealGame.EventService", "CerealGame.EventService\CerealGame.EventService.csproj", "{4CBE289C-D5FC-4C66-A148-CA5D191B2371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CerealGame.Utils", "CerealGame.Utils\CerealGame.Utils.csproj", "{9227688C-0F5E-4C8C-9779-3B66736526C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8EE7645-8403-4FC7-8704-2859721B9155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EE7645-8403-4FC7-8704-2859721B9155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EE7645-8403-4FC7-8704-2859721B9155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EE7645-8403-4FC7-8704-2859721B9155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617B5FC4-9FAB-4D8A-93BB-88270A2C5AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617B5FC4-9FAB-4D8A-93BB-88270A2C5AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617B5FC4-9FAB-4D8A-93BB-88270A2C5AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617B5FC4-9FAB-4D8A-93BB-88270A2C5AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD251596-F5F3-441F-AE1B-22DF9A8DDD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD251596-F5F3-441F-AE1B-22DF9A8DDD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD251596-F5F3-441F-AE1B-22DF9A8DDD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD251596-F5F3-441F-AE1B-22DF9A8DDD84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7AE4DD-CBC5-41EE-B57E-CEFB56514DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7AE4DD-CBC5-41EE-B57E-CEFB56514DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7AE4DD-CBC5-41EE-B57E-CEFB56514DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7AE4DD-CBC5-41EE-B57E-CEFB56514DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24520B1-A207-44FB-86C5-3F6D6F8F7D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24520B1-A207-44FB-86C5-3F6D6F8F7D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24520B1-A207-44FB-86C5-3F6D6F8F7D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24520B1-A207-44FB-86C5-3F6D6F8F7D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85ACB843-541A-47C0-8C67-15C8382B3CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85ACB843-541A-47C0-8C67-15C8382B3CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85ACB843-541A-47C0-8C67-15C8382B3CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85ACB843-541A-47C0-8C67-15C8382B3CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CBE289C-D5FC-4C66-A148-CA5D191B2371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBE289C-D5FC-4C66-A148-CA5D191B2371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBE289C-D5FC-4C66-A148-CA5D191B2371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBE289C-D5FC-4C66-A148-CA5D191B2371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9227688C-0F5E-4C8C-9779-3B66736526C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9227688C-0F5E-4C8C-9779-3B66736526C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9227688C-0F5E-4C8C-9779-3B66736526C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9227688C-0F5E-4C8C-9779-3B66736526C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

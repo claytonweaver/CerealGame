@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CerealGame.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CerealGame.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CerealGame.Models.dll": {}
+        }
+      },
+      "CerealGame.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CerealGame.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CerealGame.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CerealGame.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CerealGame.Models/1.0.0": {
+      "type": "project",
+      "path": "../CerealGame.Models/CerealGame.Models.csproj",
+      "msbuildProject": "../CerealGame.Models/CerealGame.Models.csproj"
+    },
+    "CerealGame.Utils/1.0.0": {
+      "type": "project",
+      "path": "../CerealGame.Utils/CerealGame.Utils.csproj",
+      "msbuildProject": "../CerealGame.Utils/CerealGame.Utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CerealGame.Models >= 1.0.0",
+      "CerealGame.Utils >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Clay\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\git\\Dotnet\\CerealGame\\CerealGame.UI\\CerealGame.UI.csproj",
+      "projectName": "CerealGame.UI",
+      "projectPath": "C:\\git\\Dotnet\\CerealGame\\CerealGame.UI\\CerealGame.UI.csproj",
+      "packagesPath": "C:\\Users\\Clay\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\Dotnet\\CerealGame\\CerealGame.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Clay\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\git\\Dotnet\\CerealGame\\CerealGame.Models\\CerealGame.Models.csproj": {
+              "projectPath": "C:\\git\\Dotnet\\CerealGame\\CerealGame.Models\\CerealGame.Models.csproj"
+            },
+            "C:\\git\\Dotnet\\CerealGame\\CerealGame.Utils\\CerealGame.Utils.csproj": {
+              "projectPath": "C:\\git\\Dotnet\\CerealGame\\CerealGame.Utils\\CerealGame.Utils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
